@@ -41,11 +41,15 @@ export const getDb = async () => {
   //open store
   const store = tx.objectStore("jate");
   //execute transaction
-  const request = store.getAll();
+  const request = store.get(1);
 
   //check to confirm
   const result = await request;
-  console.log("All data grabbed", result);
+  result
+    ? console.log("data retreived from DB")
+    : console.log("data not retreived");
+
+  return result?.value;
 };
 
 initdb();
