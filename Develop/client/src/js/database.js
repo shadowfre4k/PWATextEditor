@@ -29,7 +29,6 @@ export const putDb = async (content) => {
   const result = await request;
   console.log("Content saved to Db", result);
 };
-
 // TODO: Add logic for a method that gets all the content from the database
 export const getDb = async () => {
   console.log("getDb implemented");
