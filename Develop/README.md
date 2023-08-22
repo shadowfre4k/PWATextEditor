@@ -16,9 +16,13 @@ What are the steps required to install your project? Provide a step-by-step desc
 
     https://textpwaeditor-da39821b88be.herokuapp.com/
 
-2.  In the top Left corner you can hit install and use as a PWA or use on the browser.
+1.  In the top Left corner you can hit install and use as a PWA or use on the browser.
 
-3.  Type away!
+1.  Type away!
+
+1.  if you would like to clone the repository and check out the code please feel free to check out the repo
+
+    https://github.com/shadowfre4k/PWATextEditor
 
 ## Usage
 
@@ -38,8 +42,10 @@ Downloaded as a PWA
 
 Please feel free to contact me
 
-Vincent Jacobs
+<u>Vincent Jacobs</u>
 
-Email:vincentj095@gmail.com
+Email: vincentj095@gmail.com
+
 Github: https://github.com/shadowfre4k
+
 linkedIn: https://www.linkedin.com/in/vincent-jacobs-702471224/
